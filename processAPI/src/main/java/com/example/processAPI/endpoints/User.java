@@ -6,8 +6,7 @@ public class User {
 	private String firstName;
 	private String lastName;
 	public User() {
-		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	public User(int id, String firstName, String lastName) {
 		super();
